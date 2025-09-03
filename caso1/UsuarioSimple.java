@@ -24,3 +24,4 @@ public class UsuarioSimple {
         sc.close();
     }
 }
+
