@@ -31,5 +31,4 @@ git log												----> muestra el historial de commits con fecha, autor y mens
 
 
 
-
 # fin guia de creacion local
